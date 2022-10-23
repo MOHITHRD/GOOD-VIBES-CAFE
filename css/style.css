@@ -1,0 +1,64 @@
+body {
+  font-family: "Karla", sans-serif; }
+
+header {
+  text-align: center;
+  background-image: url("../img/hero.jpg");
+  background-size: cover;
+  min-height: 100vh; }
+
+nav .navbar-nav > .nav-item > .nav-link {
+  text-transform: uppercase;
+  font-family: "Karla", sans-serif;
+  letter-spacing: .25em;
+  color: #fff; }
+
+nav .navbar-nav > .nav-item > .nav-link:hover {
+  color: #F7D6A7; }
+
+nav .navbar-nav > .nav-item {
+  padding: 10px; }
+
+a span {
+  color: #fff;
+  font-size: 1.5em; }
+
+.collapse {
+  padding-top: 10px; }
+
+section {
+  text-align: center; }
+
+.about-header {
+  padding-bottom: 20px; }
+
+.about {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  color: #473E30; }
+
+.pics {
+  margin-bottom: 15px;
+  margin-top: 15px; }
+
+.images {
+  margin-bottom: 100px; }
+
+footer .headline {
+  text-transform: uppercase; }
+
+footer a {
+  color: #fff; }
+
+footer a:hover {
+  color: #29231B; }
+
+footer {
+  font-family: "Karla", sans-serif;
+  text-align: center;
+  color: #fff;
+  padding: 50px;
+  background-color: #8A775D;
+  letter-spacing: 0.2em; }
+
+/*# sourceMappingURL=style.css.map */

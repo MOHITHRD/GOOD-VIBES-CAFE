@@ -1,0 +1,69 @@
+/* style menu page */
+body {
+  font-family: "Karla", sans-serif; }
+
+header {
+  margin-bottom: 100px;
+  color: #fff;
+  padding-bottom: 50px; }
+
+.navbar {
+  background-color: #473E30; }
+
+nav .navbar-nav > .nav-item > .nav-link {
+  text-transform: uppercase;
+  font-family: "Karla", sans-serif;
+  letter-spacing: .25em;
+  color: #fff; }
+
+nav .navbar-nav > .nav-item > .nav-link:hover {
+  color: #F7D6A7; }
+
+nav .navbar-nav > .nav-item {
+  padding: 10px; }
+
+a span {
+  color: #fff;
+  font-size: 1.5em; }
+
+.collapse {
+  padding-top: 10px; }
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 50px;
+  color: #473E30; }
+
+section {
+  text-align: center;
+  color: #473E30;
+  margin-bottom: 50px; }
+
+footer .headline {
+  text-transform: uppercase; }
+
+footer a {
+  color: #fff; }
+
+footer a:hover {
+  color: #29231B; }
+
+footer {
+  font-family: "Karla", sans-serif;
+  text-align: center;
+  color: #fff;
+  padding: 50px;
+  background-color: #8A775D;
+  letter-spacing: 0.2em; }
+
+/* Contact page */
+form {
+  margin-top: 150px;
+  margin-bottom: 50px; }
+
+/* About page */
+.story {
+  padding-bottom: 50px; }
+
+/*# sourceMappingURL=menustyle.css.map */

@@ -1,0 +1,96 @@
+/* style menu page */
+$white: #fff;
+$primary-font: 'Karla', sans-serif;
+
+
+body {
+
+	font-family: $primary-font;
+
+}
+header {
+	margin-bottom: 100px;
+	color: $white;
+	padding-bottom: 50px;
+	
+}
+
+.navbar {
+	background-color: #473E30;
+} 
+
+nav .navbar-nav > .nav-item > .nav-link {
+	text-transform: uppercase;
+	font-family: $primary-font;
+	letter-spacing: .25em;
+	color: $white;
+}
+
+nav .navbar-nav > .nav-item > .nav-link:hover {
+	color: #F7D6A7;
+}
+
+nav .navbar-nav > .nav-item {
+	padding: 10px;
+}
+
+a span {
+	color: $white;
+	font-size: 1.5em;
+}
+
+.collapse {
+	padding-top: 10px;
+}
+
+h1 {
+	text-transform: uppercase;
+	text-align: center;
+	margin-bottom: 50px;
+	color: #473E30;
+}
+
+section {
+	text-align: center;
+	color: #473E30;
+	margin-bottom: 50px;
+}
+
+
+footer .headline {
+	text-transform: uppercase;
+}
+
+footer a {
+	color: $white;
+}
+
+footer a:hover {
+	color: #29231B;
+}
+
+
+footer {
+
+	font-family: $primary-font;
+	text-align: center;
+	color: $white;
+	padding: 50px;
+	background-color: #8A775D;
+	letter-spacing: .2em
+}
+
+
+/* Contact page */
+
+
+form {
+	margin-top: 150px;
+	margin-bottom: 50px;
+}
+
+/* About page */
+
+.story {
+	padding-bottom: 50px;
+}
